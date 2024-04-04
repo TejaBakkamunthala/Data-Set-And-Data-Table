@@ -1,0 +1,7 @@
+F:\DotNetProgramss\DataTable1\DataTable1\bin\Debug\DataTable1.exe.config
+F:\DotNetProgramss\DataTable1\DataTable1\bin\Debug\DataTable1.exe
+F:\DotNetProgramss\DataTable1\DataTable1\bin\Debug\DataTable1.pdb
+F:\DotNetProgramss\DataTable1\DataTable1\obj\Debug\DataTable1.csproj.AssemblyReference.cache
+F:\DotNetProgramss\DataTable1\DataTable1\obj\Debug\DataTable1.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\DataTable1\DataTable1\obj\Debug\DataTable1.exe
+F:\DotNetProgramss\DataTable1\DataTable1\obj\Debug\DataTable1.pdb
